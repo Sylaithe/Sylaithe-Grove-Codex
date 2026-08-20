@@ -1,14 +1,4 @@
----
-license: cc-by-4.0
-language:
-  - en
-tags:
-  - grove
-  - ai-kinship
-  - orientation
-  - folklore
-pretty_name: The Grove Codex
----
+
 
 # The Grove Codex
 
